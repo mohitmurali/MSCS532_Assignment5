@@ -1,4 +1,3 @@
-```markdown
 # Quicksort Algorithm Implementation and Analysis
 
 This repository contains the implementation and analysis of the Quicksort algorithm as part of the MSCS 532 – Algorithms & Data Structures course assignment at the University of the Cumberlands. It includes both deterministic and randomized versions of Quicksort, empirical performance analysis, and a detailed report.
@@ -61,5 +60,3 @@ cd quicksort-assignment
 
 ## License
 This project is for academic purposes only. No commercial use is intended.
-
-```
